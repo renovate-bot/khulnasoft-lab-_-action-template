@@ -36,7 +36,7 @@ runs:
   using: 'docker'
   image: 'Dockerfile'
 
-# Ref: https://khulnasoft-labs.github.io/github-action-brandings/
+# Ref: https://haya14busa.github.io/github-action-brandings/
 # TODO: update branding if you want.
 branding:
   icon: 'check'
